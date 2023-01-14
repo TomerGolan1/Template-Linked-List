@@ -2,7 +2,8 @@ Template Linked List Implementation
 
 This project is a C++ implementation of a template linked list structure. 
 It also has a menu that allows you to maintain the linked list with pointers to 
-Shape objects, which is the base class of some different shape classes (such as Cricle, Square etc.) which are the derived classes.
+Shape objects, which is the base class of some different shape classes (such as Cricle, Square etc.) 
+which are the derived classes.
 This allows for the linked list to store objects of different shapes types.
 
 
